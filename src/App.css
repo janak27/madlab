@@ -1,9 +1,9 @@
 :root{
-  --mainBlue: #2a2a72;
+  --mainBlue: #9FB4FF;
   --lightBlue: #009ffd ;
-  --mainWhite: #f3f3f3;
-  --mainDark: #232528;
-  --mainYellow: #ffa400 ;
+  --mainWhite: #46244C;
+  --mainDark:  #712B75;
+  --mainYellow: #FFD36E ;
 }
 body{
   font-family: "Oswald", sans-serif !important;
@@ -22,21 +22,20 @@ body{
   color: var(--lightBlue);
 }
 .btn-black{
-  background: transparent;
+  /* background: transparent; */
+  background: fixed;
   text-transform: capitalize;
   font-size: 0.8rem !important;
-  color: var(--mainDark);
+  color: var(--mainWhite);
   border-radius: 0.3rem !important;
-  border: 0.1rem solid var(--mainDark) !important;
+  border: 0.1rem solid var(--mainWhite) !important;
 }
 .btn-black:hover{
-  background: var(--mainDark) !important;
+  background: var(--mainWhite) !important;
   color: var(--mainWhite) !important;
 }
 .cart-icon{
   cursor: pointer;
   font-size: 1.2rem;
   color: var(--mainYellow);
-  
-
 }
