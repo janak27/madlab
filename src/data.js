@@ -6,10 +6,10 @@ https://www.iconfinder.com/Makoto_msk */
 export const storeProducts = [
   {
     id: 1,
-    title: "fogg primium black",
+    title: "ferraro rocher",
     img: "img/download1.jpg",
-    price: 10,
-    company: "fogg",
+    price: 1000,
+    company: "ferraro rocher",
     info:
       "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
     inCart: false,
@@ -18,10 +18,10 @@ export const storeProducts = [
   },
   {
     id: 2,
-    title: "channel gold",
+    title: "Dairy Milk",
     img: "img/download2.jpg",
-    price: 16,
-    company: "channel",
+    price: 160,
+    company: "Cadbury",
     info:
       "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
     inCart: false,
@@ -42,7 +42,7 @@ export const storeProducts = [
   },
   {
     id: 4,
-    title: "Kanyewest prosute",
+    title: "Godiva",
     img: "img/download4.jpg",
     price: 18,
     company: "prosute",
@@ -54,10 +54,10 @@ export const storeProducts = [
   },
   {
     id: 5,
-    title: "wild stone Red",
+    title: "limtove Red",
     img: "img/download5.jpg",
     price: 24,
-    company: "wild stone",
+    company: "limtove",
     info:
       "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
     inCart: false,

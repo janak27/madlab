@@ -1,17 +1,22 @@
 :root{
-  --mainBlue: #9FB4FF;
-  --lightBlue: #009ffd ;
-  --mainWhite: #46244C;
-  --mainDark:  #712B75;
+  --mainBlue: #fca311;
+  --lightBlue: #14213d ;
+  --mainWhite: #ffffff;
+  --mainDark:  #fca311;
   --mainYellow: #FFD36E ;
 }
 body{
-  font-family: "Oswald", sans-serif !important;
+  /* font-family: "Oswald", sans-serif !important; */
+font-family: 'Arvo', serif;
+/* font-family: 'Fredoka One', cursive;
+font-family: 'Secular One', sans-serif; */
+  font-family: 'Fredoka One', cursive;
   background: var(--mainWhite) !important;
   color: var(--mainDark) !important;  
 }
 .text-title{
-  font-family: 'Permanent Marker', cursive;
+  /* font-family: 'Permanent Marker', cursive; */
+  font-family: 'Secular One', sans-serif;
   letter-spacing: 0.3rem;
   text-transform: uppercase;
 }
@@ -22,7 +27,7 @@ body{
   color: var(--lightBlue);
 }
 .btn-black{
-  /* background: transparent; */
+  background: transparent;
   background: fixed;
   text-transform: capitalize;
   font-size: 0.8rem !important;
