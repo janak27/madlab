@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/madlab/static/css/main.2be2eaaf.chunk.css",
-    "main.js": "/madlab/static/js/main.50a9668b.chunk.js",
-    "main.js.map": "/madlab/static/js/main.50a9668b.chunk.js.map",
+    "main.css": "/madlab/static/css/main.85cf56a6.chunk.css",
+    "main.js": "/madlab/static/js/main.e4e54fa7.chunk.js",
+    "main.js.map": "/madlab/static/js/main.e4e54fa7.chunk.js.map",
     "runtime~main.js": "/madlab/static/js/runtime~main.05b0808b.js",
     "runtime~main.js.map": "/madlab/static/js/runtime~main.05b0808b.js.map",
     "static/css/2.9be35272.chunk.css": "/madlab/static/css/2.9be35272.chunk.css",
     "static/js/2.903e3fb3.chunk.js": "/madlab/static/js/2.903e3fb3.chunk.js",
     "static/js/2.903e3fb3.chunk.js.map": "/madlab/static/js/2.903e3fb3.chunk.js.map",
     "index.html": "/madlab/index.html",
-    "precache-manifest.afa43b935ce715462a886cd9f9ca9f38.js": "/madlab/precache-manifest.afa43b935ce715462a886cd9f9ca9f38.js",
+    "precache-manifest.095ff853665929f2b345a908eaa24db2.js": "/madlab/precache-manifest.095ff853665929f2b345a908eaa24db2.js",
     "service-worker.js": "/madlab/service-worker.js",
     "static/css/2.9be35272.chunk.css.map": "/madlab/static/css/2.9be35272.chunk.css.map",
-    "static/css/main.2be2eaaf.chunk.css.map": "/madlab/static/css/main.2be2eaaf.chunk.css.map",
+    "static/css/main.85cf56a6.chunk.css.map": "/madlab/static/css/main.85cf56a6.chunk.css.map",
     "static/media/logo.svg": "/madlab/static/media/logo.9f7e506d.svg"
   }
 }
